@@ -1,4 +1,4 @@
-package com.richinfo.basecore;
+package com.thousandsunny.basecore;
 
 import org.junit.Test;
 

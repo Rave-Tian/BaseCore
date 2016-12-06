@@ -1,4 +1,4 @@
-package com.richinfo.library;
+package com.thousandsunny.library;
 
 import org.junit.Test;
 

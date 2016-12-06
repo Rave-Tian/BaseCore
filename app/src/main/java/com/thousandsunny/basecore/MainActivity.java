@@ -1,4 +1,4 @@
-package com.richinfo.basecore;
+package com.thousandsunny.basecore;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

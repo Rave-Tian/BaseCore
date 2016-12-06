@@ -1,4 +1,4 @@
-package com.richinfo.library;
+package com.thousandsunny.basecore;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
